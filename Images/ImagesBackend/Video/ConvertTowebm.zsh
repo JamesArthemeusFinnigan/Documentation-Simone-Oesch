@@ -1,4 +1,5 @@
 for f in *.mkv;
 do
-ffmpeg -hwaccel videotoolbox -i $f -f webm -c:v libvpx -b:v 2M -acodec libvorbis -auto-alt-ref 0 ${f%.mov}.webm -hide_banner
+ffmpeg -i $f -filter_complex "[0:v] palettegen" ${f%palette}.png
+ffmpeg -i $f -i ${f%palette}.png -filter_complex "[0:v] fps=24,scale=320:-1 [new];[new][1:v] paletteuse" ${f}.gif
 done
