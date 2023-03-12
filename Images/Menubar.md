@@ -1,1 +1,0 @@
-![ImageOfMenubar](Images/ImagesBackend/Menubar.jpeg)
