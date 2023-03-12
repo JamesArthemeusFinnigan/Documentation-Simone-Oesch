@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tiles (nur verwenden, wenn Fensterverwaltung nicht funktioniert).md",
+                "file": "Images/Menubar.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tiles (nur verwenden, wenn Fensterverwaltung nicht funktioniert).md",
+                "file": "Images/Menubar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tiles (nur verwenden, wenn Fensterverwaltung nicht funktioniert).md",
+                "file": "Images/Menubar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tiles (nur verwenden, wenn Fensterverwaltung nicht funktioniert).md"
+                "file": "Images/Menubar.md"
               }
             }
           }
@@ -145,18 +145,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ab97de6ba584808",
+  "active": "a85719022672fb24",
   "lastOpenFiles": [
-    "Images/TilesMenuaBarPremadeShortcuts.md",
-    "Images/TilesMenuaBarPremadeShortcuts.md",
+    "Images/ImagesBackend/Menubar.jpeg.md",
+    "Images/Menubar.md",
     "Tiles (nur verwenden, wenn Fensterverwaltung nicht funktioniert).md",
+    "Images/TilesMenuaBarPremadeShortcuts.md",
+    "Images/TilesMenuaBarPremadeShortcuts.md",
     "README.md",
     "Images/ImagesBackend/Tiles_1.jpg",
     "Images/ImagesBackend/TilesMenubarPremadeShortcuts.jpeg",
     "Images/ImagesBackend/TilesMenubarIcon copy.jpeg",
     "Images/Menubar.jpeg.md",
     "Images/Tiles Menubar Icon.md",
-    "Images/Menubar.md",
     "Images/ImagesBackend/Menubar.jpg",
     "Images/ImagesBackend",
     "Untitled.md",
