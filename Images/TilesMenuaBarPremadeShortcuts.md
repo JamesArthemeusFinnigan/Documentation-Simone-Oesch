@@ -1,1 +1,1 @@
-![[Tiles_1.jpg]]
+<img src="https://raw.githubusercontent.com/JamesArthemeusFinnigan/Documentation-Simone-Oesch/main/Images/ImagesBackend/Tiles_1.jpg" alt="" />

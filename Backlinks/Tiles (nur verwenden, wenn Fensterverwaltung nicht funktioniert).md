@@ -11,3 +11,9 @@ Auf der rechten Seite des Fensters siehst du alle Shortcuts, welche du verwenden
 ### **Vorsicht: Dieses Bild zeigt eine ältere Version von Tiles, diese Shortcuts stimmen nicht mehr! Falls du deine eigenen Premade shortcuts ansehen möchtest, bitte clicke auf das Menubar Icon und schaue auf deinem eigene Laptop nach
 
 ### Neue Shortcuts generieren
+
+Neue Shortcuts können mit ⌘ + , erstellt werden. Bitte nutze die Tiles Dokumentation um genaueres herauszufinden, da ich Tiles nicht installiert habe, und es dir daher nicht zeigen kann.
+
+### Troubleshooting
+
+Falls dein Window Management nicht mehr funktioniert, bitte geh auf dein Software Portal und klicke auf "Reparieren" oder "installieren", um Tiles erneut zu installieren. Danach gehe folge bitte [dieser Anleitung](https://support.apple.com/guide/mac-help/open-items-automatically-when-you-log-in-mh15189/12.0/mac/12.0) um sicherzustellen, das Tiles beim starten deines Mac's automatisch startet.

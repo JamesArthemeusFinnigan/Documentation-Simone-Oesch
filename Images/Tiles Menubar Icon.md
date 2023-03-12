@@ -1,1 +1,1 @@
-![MenuBar](Images/ImagesBackend/Menubar)
+<img src="https://raw.githubusercontent.com/JamesArthemeusFinnigan/Documentation-Simone-Oesch/main/Images/ImagesBackend/TilesMenubarIcon.jpeg" alt="" />
