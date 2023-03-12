@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backlinks/Fullscreen.md",
+                "file": "Applikation auf einen anderen Bildschirm verschieben.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlinks/Fullscreen.md",
+                "file": "Applikation auf einen anderen Bildschirm verschieben.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlinks/Fullscreen.md",
+                "file": "Applikation auf einen anderen Bildschirm verschieben.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlinks/Fullscreen.md"
+                "file": "Applikation auf einen anderen Bildschirm verschieben.md"
               }
             }
           }
@@ -147,30 +147,33 @@
   },
   "active": "64fbd80dd922c877",
   "lastOpenFiles": [
+    "Images/ImagesBackend/Video/File8.mkv.gif",
+    "Images/ImagesBackend/Video/File8.mkv.png",
+    "Images/ImagesBackend/Video/File8.mkv",
+    "Images/ImagesBackend/Video/2023-03-12 16-08-30.mkv",
+    "Images/ImagesBackend/Video/File7.mkv.gif",
+    "Images/ImagesBackend/Video/File7.mkv.png",
+    "Images/ImagesBackend/Video/File7.mkv",
+    "Images/ImagesBackend/Video/File1.mkv.png",
+    "Images/ImagesBackend/Video/2023-03-12 16-07-05.mkv",
+    "Images/ImagesBackend/Video/2023-03-12 16-06-51.mkv",
+    "README.md",
+    "Applikation auf einen anderen Bildschirm verschieben.md",
+    "Applikation minimieren.md",
+    "Backlinks/Bildshirm horizontal halbieren.md",
+    "Backlinks/Bildschirm vertikal halbieren.md",
+    "Backlinks/Fullscreen.md",
     "Images/ImagesBackend/Video/File6.mkv.gif",
     "Images/ImagesBackend/Video/File6.mkv.png",
-    "README.md",
-    "Backlinks/Fullscreen.md",
-    "Backlinks/Bildschirm vertikal halbieren.md",
     "Images/ImagesBackend/Video/File5.mkv.gif",
     "Images/ImagesBackend/Video/File5.mkv.png",
     "Images/ImagesBackend/Video/File4.mkv.gif",
     "Images/ImagesBackend/Video/File4.mkv.png",
-    "Images/ImagesBackend/Video/File3.mkv.gif",
-    "Images/ImagesBackend/Video/File3.mkv.png",
-    "Images/ImagesBackend/Video/File2.mkv.gif",
-    "Images/ImagesBackend/Video/File2.mkv.png",
-    "Images/ImagesBackend/Video/File1.mkv.gif",
     "Images/ImagesBackend/Video/File6.mkv.webm",
     "Images/ImagesBackend/Video/File5.mkv.webm",
     "Images/ImagesBackend/Video/File4.mkv.webm",
     "Images/ImagesBackend/Video/File3.mkv.webm",
     "Images/ImagesBackend/Video/File2.mkv.webm",
-    "Images/ImagesBackend/Video/File1.mkv.webm",
-    "Images/ImagesBackend/Video/File6.mkv",
-    "Images/ImagesBackend/Video/File5.mkv",
-    "Images/ImagesBackend/Video/File4.mkv",
-    "Images/ImagesBackend/Video/File3.mkv",
     "Backlinks/Tiles (nur verwenden, wenn Fensterverwaltung nicht funktioniert).md",
     "Images/TilesMenuaBarPremadeShortcuts.md",
     "Images/Tiles Menubar Icon.md",
