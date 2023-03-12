@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fullscreen.md",
+                "file": "Backlinks/Fullscreen.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fullscreen.md",
+                "file": "Backlinks/Fullscreen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fullscreen.md",
+                "file": "Backlinks/Fullscreen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fullscreen.md"
+                "file": "Backlinks/Fullscreen.md"
               }
             }
           }
@@ -149,6 +149,9 @@
   "lastOpenFiles": [
     "Images/ImagesBackend/Video/File6.mkv.gif",
     "Images/ImagesBackend/Video/File6.mkv.png",
+    "README.md",
+    "Backlinks/Fullscreen.md",
+    "Backlinks/Bildschirm vertikal halbieren.md",
     "Images/ImagesBackend/Video/File5.mkv.gif",
     "Images/ImagesBackend/Video/File5.mkv.png",
     "Images/ImagesBackend/Video/File4.mkv.gif",
@@ -168,8 +171,6 @@
     "Images/ImagesBackend/Video/File5.mkv",
     "Images/ImagesBackend/Video/File4.mkv",
     "Images/ImagesBackend/Video/File3.mkv",
-    "README.md",
-    "Fullscreen.md",
     "Backlinks/Tiles (nur verwenden, wenn Fensterverwaltung nicht funktioniert).md",
     "Images/TilesMenuaBarPremadeShortcuts.md",
     "Images/Tiles Menubar Icon.md",
