@@ -11,8 +11,12 @@
             "id": "6ab97de6ba584808",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Tiles (nur verwenden, wenn Fensterverwaltung nicht funktioniert).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tiles (nur verwenden, wenn Fensterverwaltung nicht funktioniert).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tiles (nur verwenden, wenn Fensterverwaltung nicht funktioniert).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tiles (nur verwenden, wenn Fensterverwaltung nicht funktioniert).md"
+              }
             }
           }
         ]
@@ -139,9 +147,10 @@
   },
   "active": "6ab97de6ba584808",
   "lastOpenFiles": [
-    "README.md",
+    "Images/TilesMenuaBarPremadeShortcuts.md",
+    "Images/TilesMenuaBarPremadeShortcuts.md",
     "Tiles (nur verwenden, wenn Fensterverwaltung nicht funktioniert).md",
-    "Images/ImagesBackend/TilesMenuaBarPremadeShortcuts.md",
+    "README.md",
     "Images/ImagesBackend/Tiles_1.jpg",
     "Images/ImagesBackend/TilesMenubarPremadeShortcuts.jpeg",
     "Images/ImagesBackend/TilesMenubarIcon copy.jpeg",

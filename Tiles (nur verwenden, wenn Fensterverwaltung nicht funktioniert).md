@@ -2,9 +2,9 @@
 
 ## Überblick
 
-In deiner [Menubar](Menubar.md) kannst du einige Applikationen, welche im Hintergrund ausgeführt werden, sehen. Tiles ist eine dieser Applikation (hier siehst du das [Tiles Menubar Icon](Tiles%20Menubar%20Icon.md). Indem du auf das Icon clickst, kannst du eine genauere Übersicht über Tiles erhalten. Du kannst hier die bereits eingestellten Shortcuts von Tiles sehen:
+In deiner [Menubar](Images/Menubar.md) kannst du einige Applikationen, welche im Hintergrund ausgeführt werden, sehen. Tiles ist eine dieser Applikation (hier siehst du das [Tiles Menubar Icon](Images/Tiles%20Menubar%20Icon.md). Indem du auf das Icon clickst, kannst du eine genauere Übersicht über Tiles erhalten. Du kannst hier die bereits eingestellten Shortcuts von Tiles sehen:
 
-![TilesMenuaBarPremadeShortcuts](TilesMenuaBarPremadeShortcuts.md)
+![TilesMenuaBarPremadeShortcuts](Images/TilesMenuaBarPremadeShortcuts.md)
 
 Auf der rechten Seite des Fensters siehst du alle Shortcuts, welche du verwenden kannst.
 
