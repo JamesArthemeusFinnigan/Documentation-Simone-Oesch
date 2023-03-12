@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backlinks/Tiles (nur verwenden, wenn Fensterverwaltung nicht funktioniert).md",
+                "file": "Fullscreen.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlinks/Tiles (nur verwenden, wenn Fensterverwaltung nicht funktioniert).md",
+                "file": "Fullscreen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlinks/Tiles (nur verwenden, wenn Fensterverwaltung nicht funktioniert).md",
+                "file": "Fullscreen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlinks/Tiles (nur verwenden, wenn Fensterverwaltung nicht funktioniert).md"
+                "file": "Fullscreen.md"
               }
             }
           }
@@ -145,19 +145,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a85719022672fb24",
+  "active": "64fbd80dd922c877",
   "lastOpenFiles": [
+    "Images/ImagesBackend/Video/File3.mkv.webm",
+    "Images/ImagesBackend/Video/File2.mkv.webm",
+    "Images/ImagesBackend/Video/File1.mkv.webm",
+    "Images/ImagesBackend/Video/File6.mkv",
+    "Images/ImagesBackend/Video/File5.mkv",
+    "Images/ImagesBackend/Video/File4.mkv",
+    "Images/ImagesBackend/Video/File3.mkv",
+    "Images/ImagesBackend/Video/File2.mkv",
+    "Images/ImagesBackend/Video/File1.mkv",
+    "Images/ImagesBackend/Video/File 6.mkv",
+    "Images/ImagesBackend/Video/File 5.mkv",
+    "README.md",
+    "Fullscreen.md",
+    "Backlinks/Tiles (nur verwenden, wenn Fensterverwaltung nicht funktioniert).md",
     "Images/TilesMenuaBarPremadeShortcuts.md",
     "Images/Tiles Menubar Icon.md",
     "Images/ImagesBackend/TilesMenubarIcon.jpeg",
     "Images/ImagesBackend/Menubar.jpg",
-    "Backlinks/Tiles (nur verwenden, wenn Fensterverwaltung nicht funktioniert).md",
     "Images/Menubar.md",
-    "README.md",
     "Images/ImagesBackend/Tiles_1.jpg",
-    "Images/ImagesBackend",
-    "Images",
-    "Backlinks",
     "Images/ImagesBackend/Menubar.jpeg.md",
     "Images/ImagesBackend/TilesMenubarPremadeShortcuts.jpeg",
     "Images/ImagesBackend/TilesMenubarIcon copy.jpeg",
