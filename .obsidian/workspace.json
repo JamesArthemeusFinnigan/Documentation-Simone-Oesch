@@ -11,15 +11,46 @@
             "id": "20d5b4eb5ad88e7c",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/ImagesBackend/Menubar.jpg"
+              }
+            }
+          },
+          {
+            "id": "d834e5ddd435d80b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/ImagesBackend/TilesMenubarIcon.jpeg"
+              }
+            }
+          },
+          {
+            "id": "2a4cc9972857a76e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/ImagesBackend/Menubar.jpg"
+              }
+            }
+          },
+          {
+            "id": "6ab97de6ba584808",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Tiles (nur verwenden, wenn Fensterverwaltung nicht funktioniert).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Tiles (nur verwenden, wenn Fensterverwaltung nicht funktioniert).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Tiles (nur verwenden, wenn Fensterverwaltung nicht funktioniert).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Tiles (nur verwenden, wenn Fensterverwaltung nicht funktioniert).md"
               }
             }
           }
@@ -133,8 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,8 +176,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a85719022672fb24",
+  "active": "6ab97de6ba584808",
   "lastOpenFiles": [
+    "Images/ImagesBackend/TilesMenuaBarPremadeShortcuts.md",
+    "Tiles (nur verwenden, wenn Fensterverwaltung nicht funktioniert).md",
+    "Images/ImagesBackend/Tiles_1.jpg",
+    "Images/ImagesBackend/TilesMenubarPremadeShortcuts.jpeg",
+    "Images/ImagesBackend/TilesMenubarIcon copy.jpeg",
+    "Images/Menubar.jpeg.md",
+    "Images/Tiles Menubar Icon.md",
+    "Images/Menubar.md",
+    "Images/ImagesBackend/Menubar.jpg",
+    "Images/ImagesBackend",
+    "Untitled.md",
+    "Images/ImagesBackend/TilesMenubarIcon.jpeg",
+    "TilesMenubarIcon.md",
+    "Images",
+    "Tiles.md",
+    "README.md",
     "Backlinks"
   ]
 }
