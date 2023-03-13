@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tiles (nur verwenden, wenn Fensterverwaltung nicht funktioniert).md",
+                "file": "Teams Hauptfenster während Meeting anzeigen.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tiles (nur verwenden, wenn Fensterverwaltung nicht funktioniert).md",
+                "file": "Teams Hauptfenster während Meeting anzeigen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tiles (nur verwenden, wenn Fensterverwaltung nicht funktioniert).md",
+                "file": "Teams Hauptfenster während Meeting anzeigen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tiles (nur verwenden, wenn Fensterverwaltung nicht funktioniert).md"
+                "file": "Teams Hauptfenster während Meeting anzeigen.md"
               }
             }
           }
@@ -147,6 +147,9 @@
   },
   "active": "64fbd80dd922c877",
   "lastOpenFiles": [
+    "Tiles (nur verwenden, wenn Fensterverwaltung nicht funktioniert).md",
+    "Teams Hauptfenster während Meeting anzeigen.md",
+    "README.md",
     "Images/ImagesBackend/Video/File_9.mkv.gif",
     "Images/ImagesBackend/Video/File_9.mkv.png",
     "Images/ImagesBackend/Video/File_8.mkv.gif",
@@ -157,7 +160,6 @@
     "Images/ImagesBackend/Video/File_6.mkv.png",
     "Images/ImagesBackend/Video/File_5.mkv.gif",
     "Images/ImagesBackend/Video/File_5.mkv.png",
-    "Images/ImagesBackend/Video/File_4.mkv.gif",
     "Images/ImagesBackend/Video/File_14.mkv",
     "Images/ImagesBackend/Video/File_13.mkv",
     "Images/ImagesBackend/Video/File_12.mkv",
@@ -168,9 +170,7 @@
     "Images/ImagesBackend/Video/File_7.mkv",
     "Images/ImagesBackend/Video/File_6.mkv",
     "Images/ImagesBackend/Video/File_5.mkv",
-    "README.md",
     "Fullscreen.md",
-    "Tiles (nur verwenden, wenn Fensterverwaltung nicht funktioniert).md",
     "Applikation auf einen anderen Bildschirm verschieben.md",
     "Bildshirm horizontal halbieren.md",
     "Bildschirm vertikal halbieren.md",

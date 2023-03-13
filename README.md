@@ -15,5 +15,11 @@ Unter Fensterverwaltung versteht man das Verschieben des Fensters deiner aktuell
 - [Applikation minimieren](Applikation%20minimieren.md)
 - [Applikation auf einen anderen Bildschirm verschieben](Applikation%20auf%20einen%20anderen%20Bildschirm%20verschieben.md)
 
+### Applikationsspezifische Hilfe
+
+Hier kannst du dir Applikationsspezifische Hilfe holen.
+
+- [Teams Hauptfenster während Meeting anzeigen](Teams%20Hauptfenster%20während%20Meeting%20anzeigen.md)
+- 
 
 
