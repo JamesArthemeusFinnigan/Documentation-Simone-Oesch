@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Tiles (nur verwenden, wenn Fensterverwaltung nicht funktioniert).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Tiles (nur verwenden, wenn Fensterverwaltung nicht funktioniert).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Tiles (nur verwenden, wenn Fensterverwaltung nicht funktioniert).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Tiles (nur verwenden, wenn Fensterverwaltung nicht funktioniert).md"
               }
             }
           }
@@ -147,10 +147,10 @@
   },
   "active": "64fbd80dd922c877",
   "lastOpenFiles": [
+    "README.md",
     "Fullscreen.md",
     "Tiles (nur verwenden, wenn Fensterverwaltung nicht funktioniert).md",
     "Applikation auf einen anderen Bildschirm verschieben.md",
-    "README.md",
     "Bildshirm horizontal halbieren.md",
     "Bildschirm vertikal halbieren.md",
     "Applikation minimieren.md",
